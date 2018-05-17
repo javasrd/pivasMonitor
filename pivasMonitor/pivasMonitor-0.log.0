@@ -1,0 +1,232 @@
+四月 10, 2018 6:39:49 下午 PivasMonitor main
+信息: Local ip[10.40.129.171]
+四月 10, 2018 6:40:11 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:The Network Adapter could not establish the connection
+四月 10, 2018 6:40:11 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:40:11 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:40:21 下午 PivasMonitor main
+信息: Local ip[10.40.129.171]
+四月 10, 2018 6:40:42 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:The Network Adapter could not establish the connection
+四月 10, 2018 6:40:42 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:40:42 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:40:52 下午 PivasMonitor main
+信息: Local ip[10.40.129.171]
+四月 10, 2018 6:42:03 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:04 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:05 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:05 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:05 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:42:15 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:15 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:15 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:15 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:15 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:42:25 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:25 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:25 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:25 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:25 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:42:35 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:35 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:35 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:35 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:35 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:42:45 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:45 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:45 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:45 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:45 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:42:55 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:42:55 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:42:55 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:42:55 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:42:55 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:43:05 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:43:05 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:43:05 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:43:05 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:43:05 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:43:15 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:43:15 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:43:15 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:43:15 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:43:15 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:43:25 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:43:25 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:43:25 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:43:25 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:43:25 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:56:48 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:56:49 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:56:49 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:56:49 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:56:49 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:56:59 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:56:59 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:56:59 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:56:59 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:56:59 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:57:09 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:57:09 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:57:09 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:57:09 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:57:09 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:57:19 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:57:19 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:57:19 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:57:19 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:57:19 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:57:29 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:57:30 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:57:30 下午 OracleUtil getServerNodeListByParam
+严重: database connect error:ORA-00942: 表或视图不存在
+
+四月 10, 2018 6:57:30 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:57:30 下午 PivasMonitor main
+严重: Invalid ip,can not find node,waiting for retry
+四月 10, 2018 6:57:51 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:57:52 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:57:52 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:57:52 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:57:52 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
+四月 10, 2018 6:58:02 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:58:02 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:58:02 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:58:02 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:58:02 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
+四月 10, 2018 6:58:12 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:58:13 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:58:13 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:58:13 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:58:13 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
+四月 10, 2018 6:58:23 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:58:23 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:58:23 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:58:23 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:58:23 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
+四月 10, 2018 6:58:33 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:58:33 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:58:33 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:58:33 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:58:33 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
+四月 10, 2018 6:58:43 下午 PivasMonitor main
+信息: Local ip[127.0.0.1]
+四月 10, 2018 6:58:43 下午 OracleUtil getServerNodeListByParam
+信息: Connect db:jdbc:oracle:thin:@127.0.0.1:1521:pivas OK
+四月 10, 2018 6:58:43 下午 OracleUtil getServerNodeListByParam
+信息: ID:1 IP:127.0.0.1 NAME:MAINSERVER FLAG:0 PORT:80,8080,8081,61616 DOMAINNAME:/pivasBase/app/heart,/dem/pivasBase/heart/heartbeat,TEST
+四月 10, 2018 6:58:43 下午 OracleUtil getServerNodeListByParam
+信息: database disconnected
+四月 10, 2018 6:58:43 下午 PivasMonitor main
+信息: main server do not need monitor,waiting for retry
